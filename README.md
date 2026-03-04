@@ -1,4 +1,4 @@
-# 🔇 3itx ANTI Hat Sound
+# 🔇 ANTI Hat Sound
 
 External Roblox tool that automatically mutes annoying sounds from specific hats and accessories using memory manipulation. No executor needed.
 
