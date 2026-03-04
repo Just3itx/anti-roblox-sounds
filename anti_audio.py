@@ -1,8 +1,3 @@
-"""
-3itx ANTI Hat Sound — External Roblox Hat/Accessory Sound Muter
-Automatically mutes sounds from hats and accessories using robloxmemoryapi.
-"""
-
 import json
 import re
 import subprocess
